@@ -1,0 +1,20 @@
+body{
+    background:green;
+    color:white;
+}
+.heading{
+    width: 80%;
+    font-size: 22%;
+    
+
+}
+.name_of_objects ,#result_object_name, #result_object_accuracy{
+    color:blue;
+
+}
+#camara{
+    border: 2px dashed black;
+    width: 350 px;
+    height:300 px;
+
+}
